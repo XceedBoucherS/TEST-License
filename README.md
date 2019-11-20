@@ -4,4 +4,4 @@ Data Section
 
 License section
 
-![XceedCommunityLicense](https://user-images.githubusercontent.com/29377763/69273788-0b954f80-0ba7-11ea-81b1-c89a6bb08d99.png)
+![XceedCommunityLicenseSMALL](https://user-images.githubusercontent.com/29377763/69274195-d9382200-0ba7-11ea-9ab7-bfce3126f35a.png)
